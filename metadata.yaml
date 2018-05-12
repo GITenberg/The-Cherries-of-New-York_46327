@@ -1,0 +1,51 @@
+_repo: The-Cherries-of-New-York_46327
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Taylor, O. M. (Orrin Morehouse)
+    alias: Taylor, Orrin Morehouse
+    birthdate: 1865
+    gutenberg_agent_id: '43352'
+    url: http://www.gutenberg.org/2009/agents/43352
+  - agent_name: Tubergen, C. B. (Charles Burton)
+    alias: Tubergen, Charles Burton
+    birthdate: 1890
+    gutenberg_agent_id: '42525'
+    url: http://www.gutenberg.org/2009/agents/42525
+  - agent_name: Howe, G. H. (George Henry)
+    alias: Howe, George Henry
+    birthdate: 1888
+    gutenberg_agent_id: '43140'
+    url: http://www.gutenberg.org/2009/agents/43140
+  - agent_name: Wellington, R. (Richard)
+    alias: Wellington, Richard
+    birthdate: 1884
+    gutenberg_agent_id: '43171'
+    url: http://www.gutenberg.org/2009/agents/43171
+covers:
+- cover_type: archival
+  image_path: 46327-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hedrick, U. P.
+    alias: Hedrick, Ulysses Prentiss
+    birthdate: 1870
+    deathdate: 1951
+    gutenberg_agent_id: '34063'
+    url: http://www.gutenberg.org/2009/agents/34063
+    wikipedia: http://en.wikipedia.org/wiki/Ulysses_Prentiss_Hedrick
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Fruit-culture -- New York (State)'
+- !lcsh 'Cherry'
+title: The Cherries of New York
+url: http://www.gutenberg.org/ebooks/46327
